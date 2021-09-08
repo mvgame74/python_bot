@@ -1,0 +1,1 @@
+Found info for connecting to mydramalist in https://mydramalist.github.io/MDL-API/
